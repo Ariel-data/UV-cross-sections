@@ -7,7 +7,7 @@ ExoMol UV
 +-----------------+---------------+
 |Molecule         |Description    |
 +=================+===============+
-|CO2              |  xsec-VUV-DTU |
+|CO2              |  `xsec-VUV-DTU`<https://exomol.com/data/data-types/xsec_VUV/CO/12C-16O/xsec-VUV-DTU/>`__ |
 +-----------------+---------------+
 |H2O              |               |
 +-----------------+---------------+
