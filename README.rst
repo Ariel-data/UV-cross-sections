@@ -9,6 +9,8 @@ ExoMol UV
 +=================+==========================================================================================+
 |CO2              |  CO2-VUV-DTU_                                                                            |
 +-----------------+------------------------------------------------------------------------------------------+
+|                 |  CO2-Venot_                                                                              |
++-----------------+------------------------------------------------------------------------------------------+
 |H2O              |  H2O-VUV-DTU_                                                                            |
 +-----------------+------------------------------------------------------------------------------------------+
 |SO2              |  SO2-VUV-DTU_                                                                            |
@@ -24,6 +26,8 @@ ExoMol UV
 
 .. _CO2-VUV-DTU: https://exomol.com/data/data-types/xsec_VUV/CO/12C-16O/xsec-VUV-DTU/
 
+.. _CO2-Venot: https://exomol.com/data/molecules/CO2/12C-16O2/xsec-VUV-Venot-2018/
+
 .. _H2O-VUV-DTU: https://exomol.com/data/data-types/xsec_VUV/H2O/1H2-16O/xsec-VUV-DTU/
 
 .. _SO2-VUV-DTU: https://exomol.com/data/data-types/xsec_VUV/SO2/32S-16O2/xsec-VUV-DTU/
@@ -36,8 +40,10 @@ ExoMol UV
 
 .. _CO-VUV-DTU: https://exomol.com/data/data-types/xsec_VUV/CO/12C-16O/xsec-VUV-DTU/
 
-Leiden VUV cross section database 2023
+Leiden-VUV_ cross section database 2023
 --------------------------------------
+
+.. _Leiden-VUV: https://home.strw.leidenuniv.nl/~ewine/photo/cross_sections.html
 
 +-----------------+-----------+
 |Molecule         |Description|
@@ -124,11 +130,12 @@ Previous database update (Heays+ 2017)
 |Mg               |            |
 +-----------------+------------+
 
- Already present
+Already present
+---------------
 
 +-----------------+------------+
 |Species          |Description |
-+==================+===========+
++=================+============+
 |Si               |            |
 +-----------------+------------+
 |P                |            |
